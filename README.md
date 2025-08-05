@@ -35,3 +35,5 @@ Finally, run the program from the root directory:
 ```sh
 python src/cells.py
 ```
+
+(The program may take a minute to launch the first time you run it.)
