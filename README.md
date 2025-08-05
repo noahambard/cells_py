@@ -5,6 +5,10 @@ A test of Wolfram's elementary cellular automata, inspired by The Coding Train
 
 Written by Noah Emmanuel Ambard
 
+![An implementation of Wolfram's Elementary Cellular Automata](./examples/thumbnail.png)
+
+[(See more images.)](./Examples.md)
+
 ## Install and run
 
 First, clone the code into a local repository:
