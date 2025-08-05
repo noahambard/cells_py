@@ -1,0 +1,3 @@
+# Requirements for cells.py
+
+pygame == 2.6.1
